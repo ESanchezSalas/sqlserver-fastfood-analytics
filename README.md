@@ -48,7 +48,7 @@ sqlserver-fastfood-analytics/
 
 ⸻
 
-### 🧩 Modelo ER
+### 🧩 Modelo MER
 
 <p align="center">
   <img src="img/mersql.jpeg" alt="Modelo entidad–relación (ER) - Fast Food" width="900">
