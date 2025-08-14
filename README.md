@@ -72,5 +72,3 @@ Revisa el documento: docs/fastfood.pdf con el detalle del modelo y hallazgos.
 ⸻
 
 Autor: Eric Sanchez — Data Analyst (Admin & Finance) 
-
-Con eso el M2 queda redondo. ¿Avanzamos al M3 (Power BI – AdventureWorks)?
