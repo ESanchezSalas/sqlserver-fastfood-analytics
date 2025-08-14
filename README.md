@@ -18,7 +18,7 @@ Ejecutar **un solo script** que:
    GO
    USE SistemaPedidos;
 
-	3.	Ejecuta todo el archivo sql/DA_Sanchez_Eric.sql.
+	3.	Ejecuta todo el archivo sql/fastfood.sql.
 Si el script ya incluye CREATE DATABASE / USE, puedes correrlo tal cual.
 
 ⸻
@@ -38,7 +38,7 @@ Las consultas exactas están al final del script sql/DA_Sanchez_Eric.sql.
 
 sqlserver-fastfood-analytics/
 ├─ sql/
-│  └─ DA_Sanchez_Eric.sql        # único script (schema + seed + queries KPI)
+│  └─ fasfood.sql        # único script (schema + seed + queries KPI)
 ├─ docs/
 │  └─ fastfood.pdf               # informe/presentación
 ├─ img/
@@ -48,12 +48,9 @@ sqlserver-fastfood-analytics/
 
 ⸻
 
-🧩 Modelo ER (opcional)
+🧩 Modelo ER
 
-Si subes la imagen del MER como img/mer.png, se verá aquí:
 
-¿Prefieres el MER en PDF? Sube docs/mer.pdf y enlázalo así:
-Ver MER (PDF)
 
 ⸻
 
